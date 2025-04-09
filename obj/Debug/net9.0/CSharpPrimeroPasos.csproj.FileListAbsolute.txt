@@ -1,0 +1,14 @@
+/home/victor/CSharpPrimeroPasos/bin/Debug/net9.0/CSharpPrimeroPasos
+/home/victor/CSharpPrimeroPasos/bin/Debug/net9.0/CSharpPrimeroPasos.deps.json
+/home/victor/CSharpPrimeroPasos/bin/Debug/net9.0/CSharpPrimeroPasos.runtimeconfig.json
+/home/victor/CSharpPrimeroPasos/bin/Debug/net9.0/CSharpPrimeroPasos.dll
+/home/victor/CSharpPrimeroPasos/bin/Debug/net9.0/CSharpPrimeroPasos.pdb
+/home/victor/CSharpPrimeroPasos/obj/Debug/net9.0/CSharpPrimeroPasos.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor/CSharpPrimeroPasos/obj/Debug/net9.0/CSharpPrimeroPasos.AssemblyInfoInputs.cache
+/home/victor/CSharpPrimeroPasos/obj/Debug/net9.0/CSharpPrimeroPasos.AssemblyInfo.cs
+/home/victor/CSharpPrimeroPasos/obj/Debug/net9.0/CSharpPrimeroPasos.csproj.CoreCompileInputs.cache
+/home/victor/CSharpPrimeroPasos/obj/Debug/net9.0/CSharpPrimeroPasos.dll
+/home/victor/CSharpPrimeroPasos/obj/Debug/net9.0/refint/CSharpPrimeroPasos.dll
+/home/victor/CSharpPrimeroPasos/obj/Debug/net9.0/CSharpPrimeroPasos.pdb
+/home/victor/CSharpPrimeroPasos/obj/Debug/net9.0/CSharpPrimeroPasos.genruntimeconfig.cache
+/home/victor/CSharpPrimeroPasos/obj/Debug/net9.0/ref/CSharpPrimeroPasos.dll
