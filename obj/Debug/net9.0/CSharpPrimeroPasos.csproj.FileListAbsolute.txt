@@ -12,3 +12,4 @@
 /home/victor/CSharpPrimeroPasos/obj/Debug/net9.0/CSharpPrimeroPasos.pdb
 /home/victor/CSharpPrimeroPasos/obj/Debug/net9.0/CSharpPrimeroPasos.genruntimeconfig.cache
 /home/victor/CSharpPrimeroPasos/obj/Debug/net9.0/ref/CSharpPrimeroPasos.dll
+/home/victor/CSharpPrimeroPasos/obj/Debug/net9.0/CSharpPrimeroPasos.sourcelink.json

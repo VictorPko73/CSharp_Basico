@@ -17,6 +17,8 @@ class Program
             Console.WriteLine("5. Ejecuta Calcular dimensiones esfera");
             Console.WriteLine("6. Ejecuta Calculadora");
             Console.WriteLine("7. Ejecuta Caracteres al revés");
+            Console.WriteLine("8. Ejecuta Tabla Multiplicar");
+            Console.WriteLine("9. Ejecuta Número Aleatorio");
             Console.WriteLine("0. Salir");
             Console.Write("Selecciona una opción: ");
             
@@ -54,6 +56,14 @@ class Program
                 
                 case 7:
                     Caracteres_Al_Reves.Ejecutar();
+                    break;
+                
+                case 8:
+                    Tabla_Multiplicar.Ejecutar();
+                    break;
+                
+                case 9:
+                    Numero_Azar.Ejecutar();
                     break;
                 
                 
